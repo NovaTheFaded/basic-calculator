@@ -1,2 +1,2 @@
-# basic-calculator
-very basic calculator for first steps in JS
+# Very Basic Calculator
+This is just a terrible calculator built as a way to learn and experiment with JS
